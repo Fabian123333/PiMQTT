@@ -3,8 +3,8 @@ interval = 60
 mqtt = {
 	"host": "10.100.2.10",
 	"port": 1883,
-	"topic": "grow/monitor",
-	"client-id": "grow-monitor",
+	"topic": "default/monitor",
+	"client-id": "default-monitor",
 	"keepalive": 60
 }
 
